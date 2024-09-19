@@ -8,3 +8,6 @@ Sobre mim
 📫 Contato: Pode me encontrar através do GitHub ou em redes sociais como LinkedIn para discutir colaborações ou apenas trocar ideias.
 😄 Pronomes: Ele/Dele
 ⚡ Curiosidade: Comecei minha jornada em programação criando websites utilizando templates prontos e hoje estou desenvolvendo uma plataforma de ensino para ajudar outras pessoas a aprenderem programação de forma prática e objetiva.
+
+# Roadmap photo
+[![roadmap.sh](https://roadmap.sh/card/wide/66b7900eb64402e0525719f4?variant=dark)](https://roadmap.sh)
