@@ -1,4 +1,4 @@
-👋 Hi, I’m Jardel Lion
+👋 Hi, I’m Jardel Elias Bernardo
 Sobre mim
 
 👀 Interesses: Desenvolvimento web, design de interfaces, ensino de programação Python, aprendizado contínuo.
