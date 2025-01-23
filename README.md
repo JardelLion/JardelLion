@@ -1,5 +1,5 @@
 👋 Hi, I’m Jardel Elias Bernardo
-Sobre mim
+Sobre mim\
 
 👀 Interesses: Desenvolvimento web, design de interfaces, ensino de programação Python, aprendizado contínuo.
 🌱 Atualmente aprendendo: Python Development,Frontend Development, Figma, frameworks modernos como Tailwind CSS, e habilidades de comunicação para ensino.
